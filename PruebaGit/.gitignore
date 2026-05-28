@@ -1,0 +1,37 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de usuario y caché de Visual Studio
+*.user
+*.userprefs
+.vs/
+.vscode/
+
+# Archivos NuGet
+*.nupkg
+*.nuspec
+packages/
+
+# Archivos de configuración local
+appsettings.local.json
+*.local.json
+
+# Archivos de temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencias locales
+node_modules/
+
